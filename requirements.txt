@@ -10,7 +10,7 @@ Jinja2==2.9.4
 macholib==1.5.1
 MarkupSafe==0.23
 modulegraph==0.10.4
-numpy==1.11.2
+numpy==1.22.0
 Pillow==3.4.2
 py2app==0.7.3
 pyexcel==0.4.2
